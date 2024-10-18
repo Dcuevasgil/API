@@ -1,0 +1,3 @@
+com\vedruna\api_rest_tabla\TablaApplication.class
+com\vedruna\api_rest_tabla\controllers\MainController.class
+com\vedruna\api_rest_tabla\persistance\model\Product.class
